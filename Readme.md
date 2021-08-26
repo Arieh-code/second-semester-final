@@ -45,8 +45,8 @@ The main tools I used to improve my project is Ensemble learning.
 
 ### Second part: Fashion Mnist
 
-In this section we our tasked with the knows fashion mnist dataset, it is a dataset filled of pictured of different fashion items.
-Out goal is to be able to classify as well as possible.
+In this section we are tasked with the known fashion mnist dataset, it is a dataset filled of pictures of different fashion items.
+Our goal is to be able to classify as well as possible.
 
 ---------
 
@@ -58,7 +58,7 @@ In this section we will look at the Cats vs Dogs dataset, which is another data 
 
 ### Fourth part:
 
-In this last section we are tasked in classifying between hand movement position, Spontanious, Syncharnised and Alone.
+In this last section we are tasked in classifying between hand movement position, Spontaneous, Synchronized and Alone.
 
 ----------
 
