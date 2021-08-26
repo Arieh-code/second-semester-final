@@ -1,6 +1,3 @@
-This is the data science course at Ariel university, the professors name is
-Dr Roi Yozevitch. This project contains four note books.
-
 
 ## Final-assignment
 
